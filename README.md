@@ -33,18 +33,18 @@
   - Intermediate
 
 ## プロジェクト
-#### Todo App 
+#### Todo App  
 [GitHub repo](https://github.com/yuki-o1o5/ToDoList)   
 [Demo](https://yuki-o1o5.github.io/ToDoList/)  
 React , ContextApi , useReducer
-#### ポートフォリオサイト 
+#### ポートフォリオサイト (更新中)   
 [GitHub repo](https://github.com/yuki-o1o5/my-portfolio)   
 [Demo](https://yukikasugai.vercel.app/)  
 Next.js , API
 #### Hacker News in Japanese (作成中)  
 [GitHub repo](https://github.com/yuki-o1o5/hacker-news-in-japanese)  
 Next.js , API
-#### Flight Search (作成中)
+#### Flight Search (作成中)  
 [GitHub repo](https://github.com/yuki-o1o5/flight-search-app)   
 TypeScript , MUI , API
 
