@@ -40,12 +40,12 @@
 ### Gram Review App  
 [🔗&nbsp; https://glam-review.vercel.app](https://glam-review.vercel.app/)  
 [👩🏻‍💻&nbsp; https://github.com/yuki-o1o5/GlamReview](https://github.com/yuki-o1o5/GlamReview)   
-React, Material-UI, Node.js, Express, MongoDB
+React, ContextApi, useReducer, Material-UI, Node.js, Express, MongoDB
 
 ### Todo App  
-[🔗&nbsp; https://yuki-o1o5.github.io/ToDoList](https://yuki-o1o5.github.io/ToDoList/)  
-[👩🏻‍💻&nbsp; https://github.com/yuki-o1o5/ToDoList](https://github.com/yuki-o1o5/ToDoList)   
-React, ContextApi, useReducer  
+[🔗&nbsp; https://to-do-app-beta-fawn.vercel.app](https://to-do-app-beta-fawn.vercel.app/)  
+[👩🏻‍💻&nbsp; https://github.com/yuki-o1o5/To-do-List-with-SQLite](https://github.com/yuki-o1o5/To-do-List-with-SQLite)   
+React, TanStack Query,  Node.js, Express, SQLite
 
 ### Quiz App
 [🔗&nbsp; https://quiz-app-gilt-six.vercel.app](https://quiz-app-gilt-six.vercel.app/)    
