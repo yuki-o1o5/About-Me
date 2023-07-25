@@ -34,8 +34,10 @@
   - Intermediate
 
 ## プロジェクト
-### SpendShare (制作中)
-[👩🏻‍💻&nbsp; https://github.com/e-0922-ja/expense-tracker-app](https://github.com/e-0922-ja/expense-tracker-app)<br/> React, TypeScript Material-UI, Supabase, SendGrid
+### SpendShare
+[🔗&nbsp; https://e-0922-ja.github.io/expense-tracker-app](https://e-0922-ja.github.io/expense-tracker-app)  
+[👩🏻‍💻&nbsp; https://github.com/e-0922-ja/expense-tracker-app](https://github.com/e-0922-ja/expense-tracker-app)  
+React, TypeScript Material-UI, Supabase, PostgresSQL, SendGrid
 
 ### Gram Review App  
 [🔗&nbsp; https://glam-review.vercel.app](https://glam-review.vercel.app/)  
